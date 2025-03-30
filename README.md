@@ -123,9 +123,10 @@ Model shows strong precision and recall across all categories.
 
 ## Authors
 
-- [Your Name]
-- [Group Member 2]
-- [Group Member 3]
+- Chantal Ojurongbe
+- Bess Shebeck
+- Zachary Tisdale
+- Zhongyi Sun
 
 Contributions: Preprocessing, modeling, augmentation, evaluation, and explainability.
 
